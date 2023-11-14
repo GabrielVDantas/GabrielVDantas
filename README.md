@@ -9,16 +9,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielVDantas&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
+### Languages:
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)&nbsp;
 
 ### Frameworks:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -29,9 +27,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FFFFFF)&nbsp;
 
 ### I'm currently studying:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFFFF)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF)&nbsp;
 
 
 <div align="center">
