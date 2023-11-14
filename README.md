@@ -18,8 +18,12 @@
 ### Frameworks:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-### Tools:
+### IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFFFFF)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)&nbsp;
+
+### Tools:
 ![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FFFFFF)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
@@ -31,7 +35,6 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF)&nbsp;
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
