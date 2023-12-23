@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)&nbsp;
 
 ### Frameworks:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF)&nbsp;
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FFFFFF)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=#68A063)
+![Node.js](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=#68A063)&nbsp;
 
 ### I'm currently studying:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;
