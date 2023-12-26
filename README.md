@@ -10,8 +10,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielVDantas&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages:
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)&nbsp;
 
@@ -27,15 +27,23 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=#68A063)&nbsp;
 
-### I'm currently studying:
+### Learning right now:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=6DB33F)&nbsp;
 
-<div align="center">
+
+### For the future:
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Django](https://img.shields.io/badge/django-0D1117?style=for-the-badge&logo=django&logoColor=%23092E20)&nbsp;
+![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=FF0000)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-0D1117?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp; -->
+
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielVDantas}/count.svg" /></p> 
-<br></div>
+<br></div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
