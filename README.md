@@ -30,7 +30,7 @@
 ### Aprendendo agora:
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=#FFF)
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielVDantas}/count.svg" /></p> 
