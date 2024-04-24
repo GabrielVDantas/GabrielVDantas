@@ -30,6 +30,8 @@
 
 ### Aprendendo agora:
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
+
 <!-- ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 <!-- <div align="center">
