@@ -13,15 +13,16 @@
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Database - ORM:
+### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=#FFF)
 
 ### Outras ferramentas:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
