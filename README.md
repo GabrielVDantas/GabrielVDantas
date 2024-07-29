@@ -33,7 +33,7 @@
 ### Aprendendo agora:
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
 <!--  ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=ff0211)
