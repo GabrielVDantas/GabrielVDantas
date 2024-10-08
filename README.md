@@ -33,6 +33,7 @@
 
 ### Aprendendo agora:
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
 <!--
