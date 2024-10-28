@@ -38,7 +38,7 @@
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Anaconda](https://img.shields.io/badge/Anaconda-0D1117?style=for-the-badge&logo=anaconda&logoColor=FFFFFF)
 
-### Para o futuro:
+#### Próximos passos:
 ![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
 ![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=FFFFFF)
@@ -49,6 +49,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF)
 ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=Excel&logoColor=FFFFFF)
 ![MicrosoftPowerBI](https://img.shields.io/badge/Microsoft_Power_BI-0D1117?style=for-the-badge&logo=PowerBI&logoColor=FFFFFF)
+
+
 <!--
 
 ### Aprendendo agora:
